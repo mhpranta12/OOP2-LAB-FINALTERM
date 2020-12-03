@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Lab8Task(Dept.Faculty)\Lab8Task(Dept.Faculty)\bin\Debug\Lab8Task(Dept.Faculty).exe.config
+C:\Users\asus\source\repos\Lab8Task(Dept.Faculty)\Lab8Task(Dept.Faculty)\bin\Debug\Lab8Task(Dept.Faculty).exe
+C:\Users\asus\source\repos\Lab8Task(Dept.Faculty)\Lab8Task(Dept.Faculty)\bin\Debug\Lab8Task(Dept.Faculty).pdb
+C:\Users\asus\source\repos\Lab8Task(Dept.Faculty)\Lab8Task(Dept.Faculty)\obj\Debug\Lab8Task(Dept.Faculty).csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Lab8Task(Dept.Faculty)\Lab8Task(Dept.Faculty)\obj\Debug\Lab8Task(Dept.Faculty).csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Lab8Task(Dept.Faculty)\Lab8Task(Dept.Faculty)\obj\Debug\Lab8Task(Dept.Faculty).exe
+C:\Users\asus\source\repos\Lab8Task(Dept.Faculty)\Lab8Task(Dept.Faculty)\obj\Debug\Lab8Task(Dept.Faculty).pdb
