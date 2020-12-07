@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\FormPracticeLab8\FormPracticeLab8\bin\Debug\FormPracticeLab8.exe.config
+C:\Users\asus\source\repos\FormPracticeLab8\FormPracticeLab8\bin\Debug\FormPracticeLab8.exe
+C:\Users\asus\source\repos\FormPracticeLab8\FormPracticeLab8\bin\Debug\FormPracticeLab8.pdb
+C:\Users\asus\source\repos\FormPracticeLab8\FormPracticeLab8\obj\Debug\FormPracticeLab8.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\FormPracticeLab8\FormPracticeLab8\obj\Debug\FormPracticeLab8.Properties.Resources.resources
+C:\Users\asus\source\repos\FormPracticeLab8\FormPracticeLab8\obj\Debug\FormPracticeLab8.Registration.resources
+C:\Users\asus\source\repos\FormPracticeLab8\FormPracticeLab8\obj\Debug\FormPracticeLab8.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\FormPracticeLab8\FormPracticeLab8\obj\Debug\FormPracticeLab8.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\FormPracticeLab8\FormPracticeLab8\obj\Debug\FormPracticeLab8.exe
+C:\Users\asus\source\repos\FormPracticeLab8\FormPracticeLab8\obj\Debug\FormPracticeLab8.pdb
+C:\Users\asus\source\repos\FormPracticeLab8\FormPracticeLab8\obj\Debug\FormPracticeLab8.DashBoard.resources
+C:\Users\asus\source\repos\FormPracticeLab8\FormPracticeLab8\obj\Debug\FormPracticeLab8.Login.resources
