@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\HasTablePractice\HasTablePractice\bin\Debug\HasTablePractice.exe.config
+C:\Users\asus\source\repos\HasTablePractice\HasTablePractice\bin\Debug\HasTablePractice.exe
+C:\Users\asus\source\repos\HasTablePractice\HasTablePractice\bin\Debug\HasTablePractice.pdb
+C:\Users\asus\source\repos\HasTablePractice\HasTablePractice\obj\Debug\HasTablePractice.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\HasTablePractice\HasTablePractice\obj\Debug\HasTablePractice.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\HasTablePractice\HasTablePractice\obj\Debug\HasTablePractice.exe
+C:\Users\asus\source\repos\HasTablePractice\HasTablePractice\obj\Debug\HasTablePractice.pdb
