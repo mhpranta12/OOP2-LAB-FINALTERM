@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Delegate Practice\Delegate Practice\bin\Debug\Delegate Practice.exe.config
+C:\Users\asus\source\repos\Delegate Practice\Delegate Practice\bin\Debug\Delegate Practice.exe
+C:\Users\asus\source\repos\Delegate Practice\Delegate Practice\bin\Debug\Delegate Practice.pdb
+C:\Users\asus\source\repos\Delegate Practice\Delegate Practice\obj\Debug\Delegate Practice.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Delegate Practice\Delegate Practice\obj\Debug\Delegate Practice.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Delegate Practice\Delegate Practice\obj\Debug\Delegate Practice.exe
+C:\Users\asus\source\repos\Delegate Practice\Delegate Practice\obj\Debug\Delegate Practice.pdb
