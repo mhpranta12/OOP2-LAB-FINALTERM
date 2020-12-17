@@ -1,0 +1,11 @@
+Delegates 
+
+Delegates  is just like the pointer and representer of methods . It can also used to call methods . 
+One of its interesting feature is it can call multiple methods simultaneously.
+
+At first we have to use namspace of collections .Then we have to create a delegate by calling the delegate built in class.
+Then in the main class we have to create a variable under that delegates which we created under the delegates built in class.
+Then we will be able to add and execute / call methods that we pointed/ assigned uder that particular delegate.
+
+N.B. : Delegates will work only in terms of same number of parameter . If we want to execute a method it must have to be under that 
+particular delegate . 
