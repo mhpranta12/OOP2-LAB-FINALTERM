@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\Assignment new\Assignment new\bin\Debug\Assignment new.exe.config
+C:\Users\asus\source\repos\Assignment new\Assignment new\bin\Debug\Assignment new.exe
+C:\Users\asus\source\repos\Assignment new\Assignment new\bin\Debug\Assignment new.pdb
+C:\Users\asus\source\repos\Assignment new\Assignment new\obj\Debug\Assignment_new.Properties.Resources.resources
+C:\Users\asus\source\repos\Assignment new\Assignment new\obj\Debug\Assignment new.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Assignment new\Assignment new\obj\Debug\Assignment new.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Assignment new\Assignment new\obj\Debug\Assignment new.exe
+C:\Users\asus\source\repos\Assignment new\Assignment new\obj\Debug\Assignment new.pdb
+C:\Users\asus\source\repos\Assignment new\Assignment new\obj\Debug\Assignment new.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Assignment new\Assignment new\obj\Debug\Assignment_new.AllBooks.resources
+C:\Users\asus\source\repos\Assignment new\Assignment new\obj\Debug\Assignment_new.NewForm.resources
